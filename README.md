@@ -19,10 +19,21 @@ from 1950 till the latest 2023 season.
 
 ## Key Features of Dashboard
 Performance Analysis of:<br>
-📌The racers best racers
-📌Most successful Racer of a of top teams for specific year/all time
-📌Top 3 teams
-📌Total wins by specific team
+📌The racers best racers. <br>
+📌Most successful Racer of a of top teams for specific year/all time. <br>
+📌Top 3 teams. <br>
+📌Total wins by specific team. <br>
 
-
-![](img/Netflix-1.png)
+## Features of Dashboard
+📍Slicer
+![](img/slicer.png)
+📍Map
+![](img/map.png)
+📍Line and Stacked Column Chart
+![](img/line cahrt.png)
+📍Stacked Bar Chart
+![](img/stacekd.png)
+📍Funnel
+![](img/funnel.png)
+📍Donut Chart
+![](img/donut.png)
