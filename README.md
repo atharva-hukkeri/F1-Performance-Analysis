@@ -34,7 +34,7 @@ Performance Analysis of:<br>
 ![](img/map.png)
 
 📍Line and Stacked Column Chart<br>
-![](img/line cahrt.png)
+![](img/line-cahrt.png)
 
 📍Stacked Bar Chart<br>
 ![](img/stacekd.png)
