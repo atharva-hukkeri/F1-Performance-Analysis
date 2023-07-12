@@ -27,15 +27,20 @@ Performance Analysis of:<br>
 📌Total wins by specific team. <br>
 
 ## Features of Dashboard
-📍Slicer
+📍Slicer<br>
 ![](img/slicer.png)
-📍Map
+
+📍Map<br>
 ![](img/map.png)
-📍Line and Stacked Column Chart
+
+📍Line and Stacked Column Chart<br>
 ![](img/line cahrt.png)
-📍Stacked Bar Chart
+
+📍Stacked Bar Chart<br>
 ![](img/stacekd.png)
-📍Funnel
+
+📍Funnel<br>
 ![](img/funnel.png)
-📍Donut Chart
+
+📍Donut Chart<br>
 ![](img/donut.png)
