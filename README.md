@@ -1,5 +1,6 @@
 # F1-Performance-Analysis
 <embed src="img/F1-Pro-year.pdf" width="800px" height="2100px" />
+
 ## Problem Statement
 Formula 1 teams need an economic solution to 
 automate their data analysis. It is impossible for teams to manually sift through 500GB of data in 
