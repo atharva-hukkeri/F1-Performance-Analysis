@@ -1,5 +1,5 @@
 # F1-Performance-Analysis
-![](img/F1-Pro-year.pdf)
+[F1 Dashboard](img/F1-Pro-year.pdf)
 
 ## Problem Statement
 Formula 1 teams need an economic solution to 
